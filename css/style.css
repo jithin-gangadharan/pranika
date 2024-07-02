@@ -425,7 +425,7 @@ h1, h2, h3, h4, h5, h6, figure {
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
   display: block;
   padding-bottom: 20px;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   letter-spacing: 2px;
   font-family: "Sacramento", Arial, serif
 }
@@ -433,7 +433,8 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-event .event-wrap p,
 #fh5co-event .event-wrap span {
   display: block;
-  color: rgba(255, 255, 255, 0.8);
+  color: #000;
+  /*color: rgba(255, 255, 255, 0.8);*/
 }
 #fh5co-counter .event-wrap i,
 #fh5co-event .event-wrap i {
